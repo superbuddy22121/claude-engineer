@@ -1,6 +1,7 @@
 # Environment variables
 .env
 main.py
+*.py
 
 # Python cache files
 __pycache__/
