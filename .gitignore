@@ -1,0 +1,30 @@
+# Environment variables
+.env
+claud_engineer/*
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+env/
+*.venv
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Other potential sensitive or unnecessary files
+*.bak
+*.swp
+*.swo
+main.py
+main.py
