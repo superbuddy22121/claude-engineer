@@ -1,6 +1,6 @@
 # Environment variables
 .env
-claud_engineer/*
+main.py
 
 # Python cache files
 __pycache__/
